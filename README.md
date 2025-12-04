@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Musa Macheke and I'm from Pretoria, South Africa. I'm a junior developer with over 1+ year of work experience. I worked as a Junior developer, Intern Developer at companies such as Tech Mahindra and ZenGo. I love to create original projects with beautiful designs. I am open to new collaborations or work where I can contribute and grow.
+Hi, my name is Musa Macheke and I'm from Pretoria, South Africa. I'm a junior developer with over 2+ year of work experience. I worked as a Junior developer, Intern Developer at companies such as Tech Mahindra and ZenGo. I love to create original projects with beautiful designs. I am open to new collaborations or work where I can contribute and grow.
 
 
 ## 🌐 Socials:
