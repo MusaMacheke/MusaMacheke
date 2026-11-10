@@ -1,21 +1,99 @@
-# 💫 About Me:
-Hi, my name is Musa Macheke and I'm from Pretoria, South Africa. I'm a junior developer with over 2+ year of work experience. I worked as a Junior developer, Intern Developer at companies such as Tech Mahindra and ZenGo. I love to create original projects with beautiful designs. I am open to new collaborations or work where I can contribute and grow.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musa-macheke-2abba2315/) 
-
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MusaMacheke&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MusaMacheke&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaMacheke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h1>Musa Macheke</h1>
+  <p><strong>SOFTWARE DEVELOPER</strong> &nbsp; · &nbsp; Pretoria, South Africa</p>
+  <p><em>Code with purpose. Products with impact.</em></p>
+  <p>Building reliable web and mobile products through thoughtful engineering, clear communication, and dependable delivery.</p>
+  <p><strong>3+ years of experience</strong> &nbsp; · &nbsp; Open to Gauteng and remote opportunities</p>
+  <p>
+    <a href="https://musa-macheke-portfolio.onrender.com/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-C1F36B?style=for-the-badge&logo=vercel&logoColor=101620" alt="Explore portfolio"></a>
+    <a href="mailto:musamacheke.01@gmail.com"><img src="https://img.shields.io/badge/CONTACT-BY_EMAIL-151E2B?style=for-the-badge&logo=gmail&logoColor=C1F36B" alt="Contact by email"></a>
+    <a href="https://wa.me/27640668708"><img src="https://img.shields.io/badge/CONNECT-ON_WHATSAPP-151E2B?style=for-the-badge&logo=whatsapp&logoColor=C1F36B" alt="Connect on WhatsApp"></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MusaMacheke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Profile
+
+Software developer with 3+ years of experience contributing to web and mobile applications. Experienced in frontend and mobile development, backend integrations, and database-backed products. Based in Pretoria and seeking opportunities across Gauteng, including Johannesburg, as well as remote roles in South Africa. Open to client projects and professional collaboration.
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>FamilyXchange</h3>
+      <p>A family-focused mobile application designed to help users organize everyday family responsibilities.</p>
+      <p><strong>Technologies</strong><br>Flutter · Dart · TypeScript · Node.js · MySQL · SQLite · MySQL Workbench · FileZilla</p>
+      <p><a href="https://github.com/MusaMacheke/FX">View source</a> &nbsp;·&nbsp; <a href="https://familyxchange.com/wp/">Project site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>HBROS Mobile Landlord</h3>
+      <p>A mobile application for landlord and property services.</p>
+      <p><strong>Technologies</strong><br>React Native · TypeScript · MySQL Workbench</p>
+      <p><a href="https://github.com/MusaMacheke/HBROS-landlord-app">View source</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.musa_hbros09.HBROSmobile&hl=en">Google Play</a></p>
+    </td>
+  </tr>
+</table>
+
+## Experience
+
+| Role | Organization | Dates | Project |
+| --- | --- | --- | --- |
+| Junior Front-End Developer | HBROS Meter Solutions | January 2025 - October 2026 | HBROS Mobile Landlord |
+| Intern Software Engineer | Apptechnics Mobile and Web Solutions | January 2023 - December 2024 | FamilyXchange |
+
+## Technical Skills
+
+**Languages:**
+C# · JavaScript · TypeScript · PHP · Dart · SQL
+
+**Mobile:**
+React Native · Flutter
+
+**Frameworks:**
+.NET Core · Node.js · Express.js · CodeIgniter
+
+**Databases:**
+MySQL · SQLite · MariaDB · MongoDB
+
+**Tools:**
+Git · GitHub · Postman · Android Studio · Visual Studio Code · MySQL Workbench · FileZilla
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-151E2B?style=flat-square&logo=react&logoColor=C1F36B" alt="React Native">
+  <img src="https://img.shields.io/badge/TypeScript-151E2B?style=flat-square&logo=typescript&logoColor=C1F36B" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Flutter-151E2B?style=flat-square&logo=flutter&logoColor=C1F36B" alt="Flutter">
+  <img src="https://img.shields.io/badge/Node.js-151E2B?style=flat-square&logo=nodedotjs&logoColor=C1F36B" alt="Node.js">
+  <img src="https://img.shields.io/badge/.NET_Core-151E2B?style=flat-square&logo=dotnet&logoColor=C1F36B" alt=".NET Core">
+  <img src="https://img.shields.io/badge/MySQL-151E2B?style=flat-square&logo=mysql&logoColor=C1F36B" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-151E2B?style=flat-square&logo=git&logoColor=C1F36B" alt="Git">
+</p>
+
+## Certificates
+
+| Professional Training | Issuer | Date |
+| --- | --- | --- |
+| API Integration & Systems Interoperability | HBROS Meter Solutions | December 2025 |
+| React Native with TypeScript Mobile Architecture | HBROS Meter Solutions | June 2025 |
+| Node.js Server-Side Development | Apptechnics Mobile and Web Solutions | June 2024 |
+| MySQL Relational Database Management | Apptechnics Mobile and Web Solutions | December 2023 |
+| Flutter & Dart Mobile Application Development | Apptechnics Mobile and Web Solutions | June 2023 |
+
+## Education
+
+**Diploma in Systems Development**
+Boston City Campus · 2023
+
+---
+
+<div align="center">
+  <h3>Let's build something useful.</h3>
+  <p>Pretoria, South Africa &nbsp; · &nbsp; Available for Gauteng and remote opportunities</p>
+  <p>
+    <a href="mailto:musamacheke.01@gmail.com">Email</a> &nbsp;·&nbsp;
+    <a href="https://wa.me/27640668708">WhatsApp</a> &nbsp;·&nbsp;
+    <a href="https://github.com/MusaMacheke">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://musa-macheke-portfolio.onrender.com/">Portfolio</a>
+  </p>
+</div>
